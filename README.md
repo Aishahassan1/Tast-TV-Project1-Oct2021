@@ -2,7 +2,7 @@
 
 ## Introduction
 
-An online live-streaming website made using HTML, CSS and JavaScript. I was provided with a 'movies' object which is where I pulled the data from which fed into my website.
+An online live-streaming website made using HTML, CSS and JavaScript. I was provided with a 'movies' object which is where I pulled the moveis data from which fed through my website.
 
 ## Table of Contents
 
