@@ -1,9 +1,10 @@
-#Tasty TV
+# Tasty TV
 
-##Introduction
+## Introduction
+
 An online live-streaming website made using HTML, CSS and JavaScript.
 
-##Table of Contents
+## Table of Contents
 
 - Introduction
 - Technologies
@@ -14,23 +15,26 @@ An online live-streaming website made using HTML, CSS and JavaScript.
 - Favourite functions & features
 - Resources
 
-###Introduction
+### Introduction
+
 This is an assignment project that we were set to test our understanding of the platforms that we have learnt on the course so far. It has allowed us to put into pratice everything that we have learned on a real life project. The brief was to build a live streaming website that has a range of features and functionality.
 
-###Technologies
+### Technologies
+
 HTML
 CSS
 JavaScript
-Flex
+Flexbox
 
-###Documentation (links/Wireframes & User stories)
-![User Stories](/images/User-Stories.png)
-![wireframe](/images/wireframe.jpeg)
-![Screenshot 1](/images.md/1.png)
-![Screenshot 2](/images.md/2.png)
-![Screenshot 3](/images.md/3.png)
-![Screenshot 4](/images.md/4.png)
-![Screenshot 5](/images.md/5.png)
+### Documentation (links/Wireframes & User stories)
+
+![User Stories](/images2/User-Stories.png)
+![wireframe](/images2/wireframe.jpeg)
+![Screenshot 1](/images2.png)
+![Screenshot 2](/images2.png)
+![Screenshot 3](/images2.png)
+![Screenshot 4](/images2.png)
+![Screenshot 5](/images2.png)
 
 ###Planning, development & problem-solving strategy
 
