@@ -28,13 +28,13 @@ Flexbox
 
 ### Documentation (links/Wireframes & User stories)
 
-![User Stories](Images2/1.png)
-![wireframe](/Images2/2.png)
-![Screenshot 1](/images2.png)
-![Screenshot 2](/images2.png)
-![Screenshot 3](/images2.png)
-![Screenshot 4](/images2.png)
-![Screenshot 5](/images2.png)
+![User Stories](Images2/User Stories.png)
+![wireframe](Images2/wireframe.jpeg)
+![Screenshot 1](Images2/1.png)
+![Screenshot 2](Images2/2.png)
+![Screenshot 3](Images2/3.png)
+![Screenshot 4](Images2/4.png)
+![Screenshot 5](Images2/5.png)
 
 ### Planning, development & problem-solving strategy
 
