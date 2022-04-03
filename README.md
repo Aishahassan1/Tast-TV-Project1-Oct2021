@@ -28,14 +28,9 @@ Flexbox
 
 ### Documentation (links/Wireframes & User stories)
 
-<img src="../images2/User-Stories.png">
-
-![wireframe](/images2/wireframe.jpeg)
-<img src="/images2/wireframe.jpeg"/>
-
+![User Stories](Images2/1.png)
+![wireframe](/Images2/2.png)
 ![Screenshot 1](/images2.png)
-<img src="../images2.png"
-
 ![Screenshot 2](/images2.png)
 ![Screenshot 3](/images2.png)
 ![Screenshot 4](/images2.png)
