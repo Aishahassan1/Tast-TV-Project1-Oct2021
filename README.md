@@ -28,7 +28,7 @@ Flexbox
 
 ### Documentation (links/Wireframes & User stories)
 
-![User Stories](../images2/User-Stories.png)
+![User Stories](./images2/User-Stories.png)
 
 ![wireframe](/images2/wireframe.jpeg)
 ![Screenshot 1](/images2.png)
