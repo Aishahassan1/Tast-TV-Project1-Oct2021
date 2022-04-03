@@ -46,7 +46,7 @@ I ran into a few problems along the way where my JavaScript code didn't respond 
 
 ### Unsolved problems and future iterations
 
-An unsolved problem that I would need to fix in future iterations is the alignment of my images and text in the latest News and What's on sections. I would also work on making the website a lot more responsive. I would also need to understand why my latest news h3 and p are not centering despite the text-align centre property. I also ideally need to add a release date for my whats on section to go with the image
+An unsolved problem that I would need to be fixed in future iterations is the alignment of my images and text in the latest News and What's on sections. I now know that the error I was making was that I did not have all the elements that needed to be grouped together within a div container. I would also work on making the website a lot more responsive. I would also need to underfix the issue of my latest news h3 and p tags not centering. I also ideally need to add a release date for my whats on section to go with the image.
 
 ### Recommendations special feature approach
 
